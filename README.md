@@ -1,7 +1,5 @@
 # VPC-Peering
 
-Basically here i created two VPC ,test-vpc and prod-vpc . 
-
 ## Steps 
 1 .  Created a VPC named test and CIDR range is 10.0.0.0/16 . 
 
